@@ -1,7 +1,3 @@
-# matplotlib-practice
-Practice repository for learning data visualization using Python and Matplotlib (OO style).
-
-
 # Matplotlib Practice
 
 This repository contains my practice work while learning data visualization using Python and Matplotlib.
