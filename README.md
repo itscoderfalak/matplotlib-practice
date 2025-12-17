@@ -1,3 +1,6 @@
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/c7679c47-893e-4d57-8cdf-af9540749a07" />
+
+
 # Matplotlib Practice
 
 This repository contains my practice work while learning data visualization using Python and Matplotlib.
